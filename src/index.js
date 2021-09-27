@@ -51,7 +51,7 @@ class App extends React.Component {
       this.setState({mode : event.target.value});
     }
     SelectMode() {
-      if (this.state.mode == "Reverse") {
+      if (this.state.mode === "Reverse") {
         return (<ReverseString string = {this.state.curString}/>);
         }
       else  
