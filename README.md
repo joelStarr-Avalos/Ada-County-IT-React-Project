@@ -1,3 +1,10 @@
+# Overview
+This is a basic React app created for Ada County IT deptartment, GIS team. It is built on top of project created with npm create-react-app
+
+# Usage
+Follow below instructions for booting running the app via npm. After opening your browser to [http://localhost:3000](http://localhost:3000), you can select between the Reverse Text component and
+the Count Characters using the option buttons then any text you enter in the input field while be reversed or counted. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
