@@ -1,5 +1,5 @@
 # Overview
-This is a basic React app created for Ada County IT deptartment, GIS team. It is built on top of project created with npm create-react-app
+This is a basic React app created for Ada County IT deptartment, GIS team. It is built on top of the project created with npm create-react-app
 
 # Usage
 Follow below instructions for booting running the app via npm. After opening your browser to [http://localhost:3000](http://localhost:3000), you can select between the Reverse Text component and
